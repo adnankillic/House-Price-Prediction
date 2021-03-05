@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Feb 15 21:49:26 2021
-
-@author: emrea
-"""
 
 import requests
 from bs4 import BeautifulSoup
